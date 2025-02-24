@@ -1,16 +1,19 @@
-## hi, i'm a pre-final year btech student majoring in artificial intelligence and data science, aspiring to become a machine learning engineer.
+# Hi there, I'm Niharika 👋  
 
-<!--
-**nkhanna94/nkhanna94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Pre-Final Year B.Tech undergrad majoring in AI & DS | ML Engineer in the Making  
+💡 Passionate about NLP, GenAI & everything Machine Learning  
+📊 Kaggle Expert | Research Enthusiast | Always Experimenting  
+☁️ Deploying ML models & breaking things on AWS  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:  
+- **Languages:** Python, SQL, C++  
+- **ML/DL:** Scikit-learn, TensorFlow, PyTorch  
+- **Cloud & Deployment:** AWS, Azure, FastAPI, Docker  
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Currently:**  
+- Diving deep into **LLMs & GenAI**  
+- Solving **DSA** for placements  
+- Exploring **ML research & internships**  
+
+✨ *"“If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.”"* – Martin Luther King Jr.
