@@ -1,4 +1,4 @@
-## heya. 
+## hi, i'm a pre-final year btech student majoring in artificial intelligence and data science, aspiring to become a machine learning engineer.
 
 <!--
 **nkhanna94/nkhanna94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
