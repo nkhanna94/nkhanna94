@@ -1,6 +1,6 @@
 # Hi there, I'm Niharika 👋  
 
-🚀 Pre-Final Year B.Tech undergrad majoring in AI & DS | ML Engineer in the Making  
+🚀 Pre-Final Year B.Tech undergrad majoring in AI & DS | Aspiring ML Engineer
 💡 Passionate about NLP, GenAI & everything Machine Learning  
 📊 Kaggle Expert | Research Enthusiast | Always Experimenting  
 ☁️ Deploying ML models & breaking things on AWS  
